@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
     s.name = '__fake__gem'
-    s.version = '1.1.0'
+    s.version = '1.1.1'
     s.authors = ['robinwaffles']
     s.summary = 'A fake mirror gem for rubocop'
     s.description = 'A fake mirror gem for rubocop'
