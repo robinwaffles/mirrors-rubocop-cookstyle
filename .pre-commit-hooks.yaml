@@ -1,0 +1,6 @@
+-   id: rubocop-cookstyle
+    name: rubocop-cookstyle
+    entry: rubocop
+    language: ruby
+    files: \.rb$
+    args: []
